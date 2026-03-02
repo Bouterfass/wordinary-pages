@@ -1,0 +1,19 @@
+{
+  "name": "Wordinary",
+  "short_name": "Wordinary",
+  "icons": [
+    {
+      "src": "/favicon/wordinary192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon/wordinary512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#e9eef5",
+  "background_color": "#e9eef5",
+  "display": "standalone"
+}
